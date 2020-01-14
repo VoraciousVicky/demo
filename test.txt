@@ -1,1 +1,2 @@
-hello world
+Hey everyone!!
+This is my first git repository
